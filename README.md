@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science - UFMT | Cuiabá, Brazil</p>
+<p align="left">Computer Science - UFScar | SP, Brazil</p>
 
 ###
 
