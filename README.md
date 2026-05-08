@@ -6,21 +6,25 @@
 
 ###
 
-<p align="left">always learning, always improving</p>
+<p align="left">Always learning, always improving</p>
 
 ###
 
-<h4 align="left">languages and tools</h4>
+<p align="left"></p>
+
+###
+
+<h3 align="left">languages and tools</h3>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
